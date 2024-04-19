@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+#bosta{
+    height: 150px;
+    background-color: orange;
+    width: 98%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#merda{
+    height: 700px;
+    width: 300px;
+    background-color: greenyellow;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#job{
+    height: 700px;
+    width: 1325px;
+    background-color: lightgray;
+    float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+    
+}
+#ladin{
+    height: 700px;
+    width: 290px;
+    background-color: lightseagreen;
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+#pedemeia{
+    height: 130px;
+    background-color: pink;
+    clear: both;
+    width: 98%;
+    margin: 0 auto;
+    text-align: center;
+}
